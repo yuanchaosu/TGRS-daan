@@ -9,7 +9,7 @@ demo of DAAN
 * DAAN can run under X86 architectures.
 * The demo was tested under Windows 11.\
 #---------------------------------------------------------------------------------------------\
-├── Readme.md\
+├── Readme.md \
 ├── Environment: Python 3.8.10 and PyTorch  2.0.1 \
 ├── Demo\
 │   └── DAAN.py\
