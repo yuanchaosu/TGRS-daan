@@ -9,6 +9,4 @@ demo of DAAN
 #---------------------------------------------------------------------------------------------\
 ├── Readme.md \
 ├── Environment: Python 3.8.10 and PyTorch  2.0.1 \
-├── Demo\
-│   └── newdaan.py\
-├── Test data: real and synthetic data sets.\
+── Test data: real and synthetic data sets.\
