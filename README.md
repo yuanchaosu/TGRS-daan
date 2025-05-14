@@ -10,16 +10,5 @@ demo of DAAN
 ├── Readme.md \
 ├── Environment: Python 3.8.10 and PyTorch  2.0.1 \
 ├── Demo\
-│   └── DAAN.py\
+│   └── newdaan.py\
 ├── Test data: real and synthetic data sets.\
-│   ├──  data_real(Real data)\
-│   │     ├──Y.npy(Moffett Field data)\
-│   │     └──E.npy(Endmembers)\
-│   └──  data_synthetic(Synthetic data)\
-│         ├──Y.npy(Synthetic data)\
-│         └──E.npy(Endmembers)\
-└── Results files
-
-## Specification
-* 'demo_synthetic_data.py' uses synthetic hyperspectral data.
-* 'demo_real_data.py' uses Moffett Field data.
